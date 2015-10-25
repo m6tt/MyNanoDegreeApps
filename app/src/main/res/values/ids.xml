@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="toolbar" />
+    <item type="id" name="collapsing_toolbar" />
+    <item type="id" name="project_list_fragment" />
+    <item type="id" name="projects_list" />
+    <item type="id" name="project_list_item_name" />
+</resources>
