@@ -13,7 +13,11 @@ import android.graphics.Color;
  */
 public class Project {
     private String mName;
-    private int mColour;
+    private int mColour; // Not used for now, might use for text colour
+
+    public Project(String name) {
+        mName = name;
+    }
 
     public Project(String name, int colour) {
         mName = name;

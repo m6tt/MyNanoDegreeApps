@@ -55,7 +55,6 @@ public class ProjectListAdapter extends RecyclerView.Adapter<ProjectListAdapter.
         Project project = mData[position];
         holder.itemView.setTag(project);
         holder.mItemName.setText(project.getName());
-        holder.itemView.setBackgroundColor(project.getColour());
     }
 
     /** Number of items **/

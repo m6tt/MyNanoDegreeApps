@@ -5,5 +5,6 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <!-- Project List Item height -->
-    <dimen name="project_list_item_height">64dp</dimen>
+    <dimen name="project_list_item_height">128dp</dimen>
+    <dimen name="project_list_item_title_size">24sp</dimen>
 </resources>
